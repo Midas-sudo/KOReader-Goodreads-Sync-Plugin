@@ -1,0 +1,4 @@
+sessions/*
+user_data*
+node_modules/
+*.sqlite
