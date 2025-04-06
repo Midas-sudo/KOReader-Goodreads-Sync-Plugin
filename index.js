@@ -234,6 +234,8 @@ app.listen(port, () => {
   console.log(`Server running at http://localhost:${port}`);
 });
 
+
+// To be improved to something truely encrypted
 function decodePassword(password) {
   const inverted_cipher_map = {
     '0': 'N',
